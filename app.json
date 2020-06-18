@@ -1,7 +1,8 @@
 {
   "expo": {
-    "name": "rn-first-app",
-    "slug": "rn-first-app",
+    "name": "UdaciFitnessCalendar",
+    "slug": "UdaciFitnessCalendar",
+    "sdkVersion": "35.0.0",
     "platforms": [
       "ios",
       "android",
